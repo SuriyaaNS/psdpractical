@@ -1,0 +1,12 @@
+h2{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size:22pt;}
+
+body { background-image:url("oneone.jpg");
+        background-size :100% 100%;
+        background-repeat:no-repeat;
+        background-attachment : fixed;}
+div {
+  width: 300px;
+
+  padding: 50px;
+  margin: 20px;}
